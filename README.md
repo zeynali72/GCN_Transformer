@@ -4,7 +4,7 @@
 This repository contains a Google Colab notebook implementing a hybrid deep learning architecture combining Transformers and Graph Convolutional Networks (GCN) for EEG signal classification.
 
 ## 📁 File
-- `GCNTrans_tensorflowfinal_29may.ipynb`: Colab notebook implementing the EEG classification pipeline using TensorFlow.
+- `GCNTrans.ipynb`: Colab notebook implementing the EEG classification pipeline using TensorFlow.
 
 ## 🧠 Description
 The model is designed for classifying EEG signals, integrating both spatial and temporal patterns. It leverages:
