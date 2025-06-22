@@ -22,8 +22,6 @@ You can open and run the notebook directly in Google Colab:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zeynali72/GCN_Transformer/blob/main/GCNTrans.ipynb)
 
-> ⚠️ Replace `your-username` and `your-repo-name` in the above link with your actual GitHub username and repo name after uploading.
-
 ## ⚙️ Requirements
 - Python 3.x
 - TensorFlow
